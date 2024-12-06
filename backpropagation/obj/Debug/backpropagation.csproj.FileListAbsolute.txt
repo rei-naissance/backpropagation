@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\bin\Debug\backpropagation.exe.config
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\bin\Debug\backpropagation.exe
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\bin\Debug\backpropagation.pdb
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.exe
+C:\Users\LENOVO\source\repos\backpropagation\backpropagation\obj\Debug\backpropagation.pdb
